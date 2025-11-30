@@ -1,10 +1,5 @@
 # Proyecto_EDA
 
-
-## VOLVER A REVISAR
-## QUITAR EMOTICONES
-
-
 # 🛍️ Análisis Exploratorio de Datos (EDA) del Dataset Online Retail II
 
 ## 🎯 1. Objetivo del Proyecto
@@ -28,7 +23,6 @@ La estructura del repositorio sigue las directrices del ejercicio:
 ├── notebooks/ 
 │ └── eda.ipynb # Notebook de Jupyter con el análisis completo 
 └── README.md # Este documento
-└── requirements.txt (opcional)
 
 ## 🛠️ 4. Análisis Realizado (Resumen de las Fases)
 
@@ -59,9 +53,7 @@ Las visualizaciones básicas revelaron:
 
 ## 🔗 5. Enlace al Notebook
 
-Puede consultar el análisis completo, incluyendo todo el código Python, las justificaciones de limpieza y las visualizaciones en el siguiente archivo:
-
-[Enlace al Notebook `eda.ipynb` dentro del repositorio]
+Puede consultar el análisis completo, incluyendo todo el código Python, las justificaciones de limpieza y las visualizaciones en el classroom.
 
 ---
 Autor: vicmary del Valle Martinez Perez
